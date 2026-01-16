@@ -1,0 +1,1 @@
+SELECT * FROM kasir_cctv.v_laporan_transaksi;
