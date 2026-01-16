@@ -47,7 +47,7 @@ Aplikasi web ini digunakan sebagai contoh penerapan database dalam sistem nyata 
 
 👉  Repository Sistem Kasir Berbasis Web:
 
-Kasir_cctv
+Kasir_apps
 
 
 ✨ Fitur Utama Database
